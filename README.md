@@ -14,7 +14,7 @@ gradient is an open-source code pen using WebGL.
 ## Installation
 
 No Installation Required.
-The deployed website is available to view at 
+The website is deployed and can be viewed at [Swipe](https://christinelea.github.io/swipe-guided-project/)
 
 ## Usage
 
